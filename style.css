@@ -1,6 +1,9 @@
 body{
     background:linear-gradient( #FEFEFE, #318CE7 )
 }
+header{
+    background-image: url(Imagenes-Encriptador/Vector.png);
+}
 main{
     display: flex;
     margin-left: 80px;
@@ -21,7 +24,7 @@ main{
     padding: relative;
     margin-top: 5px;
     margin-left: 90px;
-    background-image:url(Imagenes-Encriptador/Muñeco.png) ;
+    background-image:url(Imagenes-Encriptador/img.png) ;
     background-repeat: no-repeat;
     background-position:center ;
     background-size: 300px;
