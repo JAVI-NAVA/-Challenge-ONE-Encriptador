@@ -1,9 +1,7 @@
 body{
     background:linear-gradient( #FEFEFE, #318CE7 )
 }
-header{
-    background-image: url(Imagenes-Encriptador/Vector.png);
-}
+
 main{
     display: flex;
     margin-left: 80px;
